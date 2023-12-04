@@ -8,5 +8,3 @@ main(){
 }
 
 ```
-
-![Alt text](image.png)

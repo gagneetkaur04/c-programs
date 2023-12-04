@@ -13,5 +13,3 @@ main(){
 ```
 
 - %nd means that the integer i will be printed with a minimum field width of 'n' characters. If the number is less than 'n' digits, it will be padded with spaces on the left. If it's more than 'n' digits, it will be printed as is. (n=2,4,6 in the above case)
-
-![Alt text](image-2.png)

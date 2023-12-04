@@ -8,5 +8,4 @@ main(){
     printf("There are %d days in a week", days);
 }
 ```
-![Alt text](image-1.png)
 
